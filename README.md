@@ -31,8 +31,8 @@ A nossa solução pode ser usada para que os usuários possam se informar mais s
 
 <h2 align="center"> :pencil2: Autores :pencil2: </h2>
 
-| [<img src="https://avatars.githubusercontent.com/u/129390050?v=4" width=175><br><sub>Fernando de Jesus Vasconcelos</sub>](https://github.com/Sticknand) |
-| :---: |
+| [<img src="https://avatars.githubusercontent.com/u/129390050?s=96&v=4" width=115><br><sub>Fernando Vasconcelos</sub>](https://github.com/Sticknand) |  [<img src="https://avatars.githubusercontent.com/u/129390128?v=4" width=115><br><sub>Davi da Cruz</sub>](https://github.com/Davidcmr21) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
 
  
  <img src="public/tailwindlogo.png" width="300">
