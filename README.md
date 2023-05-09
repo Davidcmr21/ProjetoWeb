@@ -1,4 +1,4 @@
- ![gke7f5uq](https://user-images.githubusercontent.com/129390050/235219161-051fc552-4cdb-418b-97dc-c37defeb51a6.png)
+![gke7f5uq](https://user-images.githubusercontent.com/129390050/235219161-051fc552-4cdb-418b-97dc-c37defeb51a6.png)
 
 <h1 align="center"> :large_blue_circle: :star2: Central Góes Calmon :star2: :red_circle: </h1>
 
